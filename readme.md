@@ -1,1 +1,1 @@
-### This is a sample projec
+### This is a sample project
