@@ -1,1 +1,1 @@
-### This is a sample project made for lea
+### This is a sample project made for lear
