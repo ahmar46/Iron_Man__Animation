@@ -1,1 +1,1 @@
-### This is a sample project made for learnin
+### This is a sample project made for learning
