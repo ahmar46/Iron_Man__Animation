@@ -1,1 +1,1 @@
-### This is a sample project made for lear
+### This is a sample project made for learni
