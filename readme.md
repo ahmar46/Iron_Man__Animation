@@ -1,1 +1,1 @@
-### This is a sample project made for learning purpos
+### This is a sample project made for learning purpose
