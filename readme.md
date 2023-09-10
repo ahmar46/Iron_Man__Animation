@@ -1,1 +1,1 @@
-### This is a sample project made for learning purpo
+### This is a sample project made for learning purpos
