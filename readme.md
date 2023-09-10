@@ -1,1 +1,1 @@
-### This is a sample project made for learning pur
+### This is a sample project made for learning purp
