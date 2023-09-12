@@ -1,2 +1,2 @@
 ### This is a sample project made for learning purposes.
-### Technology Used -H
+### Technology Used - H
