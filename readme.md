@@ -3,4 +3,4 @@
 
 ### This is an animation of Iron Man dance.
 
-[In]
+[Ins]
