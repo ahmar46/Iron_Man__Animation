@@ -4,4 +4,4 @@
 ### This is an animation of Iron Man dance.
 
 [Instagram]: Instagram Link here.
-[Discord]: Discord Link her
+[Discord]: Discord Link here.
