@@ -3,5 +3,5 @@
 
 ### This is an animation of Iron Man dance.
 
-[Instagram]: Instagram Lin
+[Instagram]: Instagram Link
 [Discord]: Discord Link
